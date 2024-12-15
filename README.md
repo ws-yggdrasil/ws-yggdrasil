@@ -45,7 +45,7 @@ Enjoy your stay! ;)</sup>
 <!-- SKILLICONS SHIELDS GROUP -->
 
 [tech-stack-skillicons-shield]: https://skillicons.dev/icons?i=python,arduino,nodejs,php,react,next,vue,nuxt,angular,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,scss,django,flask,tensorflow,opencv,threejs
-[tools-skillicons-shield]: https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,azure,gcp,cloudflare,vercel,heroku
+[tools-skillicons-shield]: https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,gitlab,github,githubactions,figma,aws,azure,gcp,cloudflare,vercel,heroku
 
 <!-- CONTRIBUTION GROUP -->
 
