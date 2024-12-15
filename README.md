@@ -1,4 +1,4 @@
-## 👋 This is @YggdrisWalps!
+## 👋 This is @Ws-Yggdrasil!
 
 [![][github-follower-shield]][github-follower-stats]
 [![][informatn-x-shield]][informatn-x-link]
@@ -9,7 +9,7 @@
 and inspiring. Feel free to explore and share your thoughts!
 Enjoy your stay! ;)</sup>
 
-> Hi, I'm yggdris-walps (a.k.a Walps), ...
+> Hi, I'm ws-yggdrasil (a.k.a Ninh), ...
 
 ### 🔨 Skills
 
@@ -25,13 +25,13 @@ Enjoy your stay! ;)</sup>
 
 ### 🍏 Contribution
 
-[![yggdris-walps's GitHub | Stats][contribution-stats-shield]][contribution-stats-link]
+[![ws-yggdrasil's GitHub | Stats][contribution-stats-shield]][contribution-stats-link]
 
 <details>
   <summary><kbd>Star History</kbd></summary>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=yggdris-walps%2Fyggw&theme=light&type=Date">
-    <img width="100%" src="https://api.star-history.com/svg?repos=yggdris-walps%2Fyggw&type=Date">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ws-yggdrasil%2Fyggw&theme=light&type=Date">
+    <img width="100%" src="https://api.star-history.com/svg?repos=ws-yggdrasil%2Fyggw&type=Date">
   </picture>
 </details>
 
@@ -39,7 +39,7 @@ Enjoy your stay! ;)</sup>
 
 <!-- SNAKE GROUP -->
 
-[github-contribution-grid-snake-shield]: https://raw.githubusercontent.com/yggdris-walps/yggdris-walps/output/github-contribution-grid-snake-dark.svg
+[github-contribution-grid-snake-shield]: https://raw.githubusercontent.com/ws-yggdrasil/ws-yggdrasil/output/github-contribution-grid-snake-dark.svg
 [github-contribution-grid-snake-link]: https://github.com/Platane/snk
 
 <!-- SKILLICONS SHIELDS GROUP -->
@@ -49,19 +49,19 @@ Enjoy your stay! ;)</sup>
 
 <!-- CONTRIBUTION GROUP -->
 
-[contribution-stats-shield]: https://stats.quira.sh/yggdris-walps/github?theme=dark
-[contribution-stats-link]: https://quira.sh?utm_source=widgets&utm_campaign=yggdris-walps
+[contribution-stats-shield]: https://stats.quira.sh/ws-yggdrasil/github?theme=dark
+[contribution-stats-link]: https://quira.sh?utm_source=widgets&utm_campaign=ws-yggdrasil
 
 <!-- SHIELDS GROUP -->
 
-[github-follower-shield]: https://img.shields.io/github/followers/yggdris-walps?style=flat-square&logo=github&labelColor=black&color=ffb155
+[github-follower-shield]: https://img.shields.io/github/followers/ws-yggdrasil?style=flat-square&logo=github&labelColor=black&color=ffb155
 [informatn-x-shield]: https://img.shields.io/badge/-Walpurgis-black?labelColor=black&logo=x&logoColor=white&style=flat-square
 [informatn-telegram-shield]: https://img.shields.io/badge/-Yggdrasil%20Walps-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square
 [informatn-email-shield]: https://img.shields.io/badge/-hoangthaininh.hgn@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square
 
 <!-- LINK BUTTONS GROUP -->
 
-[github-follower-stats]: https://github.com/yggdris-walps
+[github-follower-stats]: https://github.com/ws-yggdrasil
 [informatn-x-link]: https://x.com/louiswalpurgis
 [informatn-telegram-link]: https://t.me/louiswalpurgis
 [informatn-email-address]: mailto:hoangthaininh.hgn@gmail.com
