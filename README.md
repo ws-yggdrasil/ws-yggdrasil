@@ -50,7 +50,7 @@ Enjoy your stay! ;)</sup>
 <!-- CONTRIBUTION GROUP -->
 
 [contribution-stats-shield]: https://stats.quira.sh/ws-yggdrasil/github?theme=dark
-[contribution-stats-link]: https://quira.sh?utm_source=widgets&utm_campaign=ws-yggdrasil
+[contribution-stats-link]: https://quira.sh?utm_source=widgets&utm_campaign=ws-yggdrasi
 
 <!-- SHIELDS GROUP -->
 
